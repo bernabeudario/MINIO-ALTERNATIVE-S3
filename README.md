@@ -4,5 +4,5 @@
 
 Programa que guarda un archivo en un bucket de MinIO.
 
-El funcionamiento de **amazon_S3_upload_file.py** se encuentra detallado en el siguiente enlace:
+El funcionamiento de **amazon_s3_upload_file.py** se encuentra detallado en el siguiente enlace:
 * [Abrir enlace Medium...]()
